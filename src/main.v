@@ -5,6 +5,8 @@
 
 module main
 
+import simulation
+
 import gg
 import gx
 
