@@ -1,6 +1,6 @@
 # VeinBox
 
-Windows simulator written in V.
+Windows simulator written with V.
 
 ## Copyright
 
