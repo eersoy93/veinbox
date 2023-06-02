@@ -115,7 +115,7 @@ type DataTypeULongLong       = u64
 type DataTypeULongPtr        = u64
 type DataTypeUnicodeString   = string
 type DataTypeUShort          = u16
-// type DataTypeVoid          = any
+// type DataTypeVoid            = any
 type DataTypeWChar           = rune
 type DataTypeWord            = u16
 
